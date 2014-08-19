@@ -5,7 +5,7 @@ Basically an ArmA 3 addon that logs member attendence and exports to a CSV file.
 
 TODO
 ====
- - Implement C/++ for exporting CSV via SQF's callExtension()
+ - Implement code (C++) for exporting CSV via SQF's callExtension()
  - Ensure this can be executed by the Gamemaster only
  - Notify Gamemaster upon mission start
 
