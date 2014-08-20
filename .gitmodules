@@ -1,0 +1,3 @@
+[submodule "JsonBox"]
+	path = JsonBox
+	url = git@github.com:anhero/JsonBox.git
