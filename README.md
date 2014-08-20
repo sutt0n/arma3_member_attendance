@@ -1,4 +1,4 @@
-ArmA 3 Member Attendence
+ArmA 3 Member Attendance
 ========================
 
 Basically an ArmA 3 addon that logs member attendence and exports to a CSV file. I'll add more here when I can.
